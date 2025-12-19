@@ -1,1 +1,13 @@
-padding page
+<!doctype html>
+<html>
+ <body>
+  <h1>Spring is coming!</h1>
+  <h2 
+id
+=
+"title"
+>Flowers</h2>
+  <p>Now is that time of the year when flowers blossom. Let's get all
+   we need to have a beautiful garden ready.</p>
+ </body>
+</html>
